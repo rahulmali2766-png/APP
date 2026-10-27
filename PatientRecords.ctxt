@@ -1,0 +1,13 @@
+#BlueJ class context
+#Tue Oct 27 10:51:47 IST 2026
+comment0.target=PatientRecords
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment2.target=void registerPatient()
+comment3.target=void addDoctor()
+comment4.target=void bookAppointment()
+comment5.target=void searchPatient()
+comment6.target=void doctorAppointments()
+comment7.target=void viewPatients()
+comment8.target=void showDoctors()
+numComments=9
